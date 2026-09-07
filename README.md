@@ -1,4 +1,4 @@
-# Hi, I'm Hairoulah 👋
+# Hi, I'm OUNIADON 👋
 
 Data Science student at the **Islamic University of Madinah**, focused on machine learning, predictive analytics, and turning messy real-world data into decisions.
 
