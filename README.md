@@ -2,7 +2,7 @@
 
 Data Science student at the **Islamic University of Madinah**, focused on machine learning, predictive analytics, and turning messy real-world data into decisions.
 
-- 🎓 6th semester, Bachelor in Computer Science & Information Systems — Data Science specialisation
+- 🎓 7th semester, Bachelor in Computer Science & Information Systems — Data Science specialisation
 - 🔭 Currently building end-to-end ML pipelines (data → model → deployed dashboard)
 - 🌍 Based in Madinah, Saudi Arabia — open to Data / ML internships in Switzerland
 - 📫 ouniadon.ds@gmail.com · [Portfolio](https://ouniadonds-byte.github.io/portfolio/)
